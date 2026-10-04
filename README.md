@@ -1,3 +1,5 @@
+# Motion Tracking for Piano Playing
+
 ![](hands_2.gif)
 
 ## Overview
@@ -74,10 +76,12 @@ Reviewing the code also revealed several weaknesses that were independent of the
 
 ## Results
 With MMpose :
+
 ![](hands_1.gif)
+
 With MediaPipe :
+
 ![](hands_2.gif)
-MediaPipe
 
 ## Limitations
 
@@ -93,7 +97,7 @@ MediaPipe
     <td align="center">
       <a href="https://github.com/TomSaw31">
         <img src="https://github.com/tomsaw31.png" width="100" height="100" alt="s-fraresso"/><br>
-        <sub><b>Sylvain Fraresso</b></sub>
+        <sub><b>Thomas Saurel</b></sub>
       </a>
     </td>
     <td align="center">
